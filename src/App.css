@@ -1,0 +1,15 @@
+.banner-one {
+    position: relative;
+    z-index: 11;
+}
+.banner-one::after {
+    background: linear-gradient(0deg, rgba(21, 11, 43, 0.9) 0%, rgba(21, 11, 43, 0) 100%);
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    border-radius: 16px;
+}
