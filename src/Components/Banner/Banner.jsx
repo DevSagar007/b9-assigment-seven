@@ -25,7 +25,7 @@ const Banner = () => {
                   className="btn h-16 px-8 border transition-all border-[white] hover:bg-[#0be58a] font-semibold hover:text-[#150B2B] hover:border-[#0be58a] text-white flex items-center justify-center rounded-4xl"
                   href="#"
                 >
-                  Explore Now
+                  Our Feedback
                 </a>
               </div>
             </div>
