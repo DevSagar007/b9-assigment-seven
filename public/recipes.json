@@ -28,65 +28,6 @@
     ],
     "preparing_time": "30 min",
     "calories": "320 calories"
-  },
-  {
-    "recipe_id": "3",
-    "recipe_name": "Mushroom Alfredo Pasta",
-    "image": "https://i.ibb.co/mr4XNbR8/Rectangle-20170.png",
-    "description": "Creamy Alfredo pasta with sautéed mushrooms.",
-    "ingredients": [
-      "400 g pasta",
-      "200 g mushroom",
-      "100 ml cream",
-      "2 garlic cloves",
-      "50 g parmesan cheese"
-    ],
-    "preparing_time": "35 min",
-    "calories": "420 calories"
-  },
-  {
-    "recipe_id": "4",
-    "recipe_name": "Grilled Salmon",
-    "image": "https://i.ibb.co/mr4XNbR8/Rectangle-20170.png",
-    "description": "Simple and healthy grilled salmon fillet.",
-    "ingredients": [
-      "300 g salmon",
-      "1 lemon",
-      "1 tsp black pepper",
-      "Salt to taste",
-      "1 tbsp olive oil"
-    ],
-    "preparing_time": "20 min",
-    "calories": "290 calories"
-  },
-  {
-    "recipe_id": "5",
-    "recipe_name": "Veggie Stir Fry",
-    "image": "https://i.ibb.co/mr4XNbR8/Rectangle-20170.png",
-    "description": "Colorful vegetables tossed in a savory stir-fry sauce.",
-    "ingredients": [
-      "1 bell pepper",
-      "100 g broccoli",
-      "1 carrot",
-      "50 g snow peas",
-      "2 tbsp soy sauce"
-    ],
-    "preparing_time": "15 min",
-    "calories": "180 calories"
-  },
-  {
-    "recipe_id": "6",
-    "recipe_name": "Beef Tacos",
-    "image": "https://i.ibb.co/mr4XNbR8/Rectangle-20170.png",
-    "description": "Crispy tacos filled with spicy ground beef and toppings.",
-    "ingredients": [
-      "300 g ground beef",
-      "6 taco shells",
-      "1 onion",
-      "100 g cheddar cheese",
-      "Lettuce and tomato"
-    ],
-    "preparing_time": "30 min",
-    "calories": "400 calories"
   }
 ]
+
